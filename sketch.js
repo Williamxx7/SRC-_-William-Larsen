@@ -3,7 +3,6 @@
 //Mit program fungerer så på den måde at den bruger dist() altså distanceformlen funktionen som er indbygget i p5js til at finde ud af om de to polygoner er tætte nok på hinanden til det giver mening at begynde NR. 
 //Hvis det er det køre programmet igennem 3 for løkker som sørger for der bliver kørt NR for hver mulighed.  
 
-
 let p1;
 let p2;
 

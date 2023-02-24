@@ -54,7 +54,7 @@ function setup() {
     height / 2, // Position y
     random(-3, 3), // Eventuel x retning 
     random(-3, 3),  // Eventuel y retning
-    5, // Antal sider 
+    20, // Antal sider 
     110, // Radius 
     color(0, 255, 0, 150) // Farve på polygon
   );
